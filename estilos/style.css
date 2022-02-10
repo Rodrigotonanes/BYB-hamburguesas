@@ -136,7 +136,7 @@ h1{grid-area: h1;align-items: center;
         .imgrappi{width: 1000px;}
         .rappi{background-color: brown;
         display: flex; border: solid brown 10px;}
-        .parrfrappi{margin-left: 50px;font-size: 30px;
+        .parrfrappi{margin-left: 2px;font-size: 30px;
             color: rgb(255, 255, 255);display: flex;align-items: center;justify-content: center;}
             .local{margin: 1rem;display: flex;justify-content: center;text-align: center;}
             .parrafolocal{color:rgb(255, 255, 255) ;position: relative;}

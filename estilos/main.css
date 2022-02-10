@@ -1,0 +1,83 @@
+.division .division__titulo {
+  font-size: 50px;
+  margin: 5px;
+}
+
+.division .division__subtitulo {
+  font-size: 40px;
+}
+
+.division .division__local {
+  border: solid white 10px;
+}
+
+section .section__titulo {
+  color: white;
+  font-size: 50px;
+}
+
+section .section__p1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+section .section__p2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+section .section__p3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+section .section__aplicacion {
+  border: solid white 10px;
+}
+
+footer .footer__par {
+  color: white;
+}
+
+hr {
+  color: white;
+}
+
+.logo .logo__ti {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  color: white;
+}
+
+ul li {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+section .section__prod {
+  color: #ba974c;
+}
+
+.sectionb .sectionb__ofert {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #ba974c;
+}
+
+footer {
+  background-image: none;
+  background-color: #f5ce94;
+  background-color: none;
+}
+
+footer .footer__par {
+  color: black;
+}
+
+nav {
+  background-color: #410202;
+}
+
+body {
+  background-color: #f8c06a;
+}
+/*# sourceMappingURL=main.css.map */

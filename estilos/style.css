@@ -23,7 +23,7 @@ font-weight: bold;
 
 body{background-color: rgb(31, 28, 28);
 background-size: cover;
-font-size: 3rem;display: grid;
+font-size: 3rem;
 }
 *{margin: 0;padding: 0;box-sizing: border-box;
 }
@@ -148,13 +148,13 @@ h1{grid-area: h1;align-items: center;
     {opacity: 1;
 }
 }
- .formulario{background-color:rgb(255, 255, 255);border-radius: 10px;width: 90%; max-width: 500px;box-shadow: 0 5px 10px -3px;}
+ .formulario{background-color:rgb(255, 255, 255);border-radius: 10px;width: 90%; max-width: 1000px;box-shadow: 0 5px 10px -3px;}
  .ingreso{display: flex;flex-direction: column;
 align-items: center;
 margin-top: 1rem;
  ;
 }
-.formulario2{background-color:rgb(255, 255, 255);border-radius: 10px;width: 90%; max-width: 700px;box-shadow: 0 5px 10px -3px; margin-top: 2rem;margin-bottom: 3rem;}
+.formulario2{background-color:rgb(255, 255, 255);border-radius: 10px;width: 90%; max-width: 1000px;box-shadow: 0 5px 10px -3px; margin-top: 2rem;margin-bottom: 3rem;}
 .card{margin: 5px;box-shadow: 0 5px 10px -3px  ;border-radius: 10px;
 }
 .col{display: flex;
@@ -182,7 +182,7 @@ nav{background-color: brown}
     align-content: center;}
     .logo__img{width: 20%;}
     .bt__rappi{text-decoration: none; color: black;}
-
+.gcontraseña{font-size: initial;}
 
 @media screen and (max-width:768px) {.responsive > body{background-color: rgb(0, 0, 0)
 ;display: flex;flex-wrap: wrap;flex-direction: column;justify-content: center;align-items: center;

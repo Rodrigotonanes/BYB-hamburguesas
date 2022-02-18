@@ -1,5 +1,5 @@
 html    {font-size: 10px;}
-.parrafoRojo{color:rgb(255, 255, 255);list-style-type: upper-roman;
+.parrafoRojo{color:rgb(0, 0, 0);list-style-type: upper-roman;
 text-align: center;}
 .titulosVerdes{color:rgb(0, 0, 0);margin-top: 10px;
 }
@@ -175,7 +175,7 @@ flex-wrap: wrap;justify-content: space-between;flex-direction: row;
 nav{background-color: brown}
 .bb{font-size: 50px;}
 .local{margin-top: 5rem;}
-.parrafolocal{display: flex;color: black;}
+.parrafolocal{display: flex;color: black;font-size: initial;}
 .parrafolo{flex-direction: column;display: flex;background-color:white;border: solid white 10px;
     justify-content: center;
     align-items: center;
@@ -183,7 +183,9 @@ nav{background-color: brown}
     .logo__img{width: 20%;}
     .bt__rappi{text-decoration: none; color: black;}
 .gcontraseña{font-size: initial;}
-
+.fondorappi{background-image: url(../assest/fondo-rappi.jpg);margin-top: 5rem;height: 400px;background-size: contain;justify-content:space-between} 
+.fondon{background-image: url(../assest/local-equipo.jpg);height: 500px;background-repeat: no-repeat;width: 1000px;}
+.imglocal1{width: 100%;}
 @media screen and (max-width:768px) {.responsive > body{background-color: rgb(0, 0, 0)
 ;display: flex;flex-wrap: wrap;flex-direction: column;justify-content: center;align-items: center;
 }
